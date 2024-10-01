@@ -23,7 +23,7 @@ CSS (Stylesheets):
 
 style.css: General styles for the website.
 
-styles-below-hero.css: Styles for sections below the hero (e.g., invitation, space, chef).
+styles-below-hero.css: Styles for sections below the hero (e.g. invitation, space, chef).
 
 footer.css: Styles specifically for the footer.
 
