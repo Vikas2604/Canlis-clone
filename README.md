@@ -1,4 +1,4 @@
-Canlis Clone Website - 
+Canlis Clone Website 
 
 
 Overview
