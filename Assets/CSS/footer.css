@@ -1,0 +1,67 @@
+@media only screen and (min-device-width: 992px){
+  .foorter-hr{
+    display: none;
+  }
+
+  footer{
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+
+  .foot-nav{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .foot-head{
+    margin-bottom: 5vh;
+    font-family: sans-serif;
+    font-size: 19px;
+  }
+
+  .foot-info{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .foot-head{
+    text-transform: uppercase;
+  }
+
+  .foot-link{
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+
+@media only screen and (max-device-width: 991px){
+
+  .foorter-hr{
+    margin-top: 20vh;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100vw;
+    opacity: 0.4;
+  }
+
+  .foot-info{
+    margin-left: 7vw;
+    margin-right: 5vw;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+  }
+
+  .foot-head{
+    text-transform: uppercase;
+    padding-bottom: 3vh;
+  }
+
+  .foot-link{
+    color: black;
+    text-decoration: underline;
+  }
+ 
+}
