@@ -29,7 +29,7 @@ footer.css: Styles specifically for the footer.
 
 JavaScript (script.js):
 
-Handles the toggling of the mobile menu (for devices 991px and below).
+Handles the toggling of the mobile menu (devices 991px and below).
 
 Contains functionality to open and close the menu when the "Menu" button is clicked.
 
