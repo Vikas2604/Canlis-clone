@@ -1,8 +1,3 @@
-Canlis Clone Website 
-
-
-Overview
-
 This project is a clone of the Canlis website, featuring responsive design, video background, and smooth navigation. It includes HTML, CSS, and JavaScript for the structure, styling, and interactivity of the site.
 
 Structure:
