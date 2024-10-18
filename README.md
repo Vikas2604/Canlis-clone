@@ -37,7 +37,7 @@ The project uses assets stored in the `Assets` directory, including:
 1. **Clone the repository** to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/canlis-restaurant-website.git
+    git clone https://github.com/Vikas2604/canlis-restaurant-website.git
     ```
 
 2. **Navigate to the project directory**:
