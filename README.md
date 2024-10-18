@@ -90,4 +90,4 @@ Contributions are welcome! To contribute:
 Call: (206) 283-3323  
 Email: [reservation@canlis.com](mailto:reservation@canlis.com)  
 
-© 1950 - 2024 Canlis
+© 1950 - 2024 Canlis-Clone
