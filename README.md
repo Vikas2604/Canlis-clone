@@ -84,10 +84,6 @@ Contributions are welcome! To contribute:
 - **Canlis Restaurant**: This website is a fictional representation inspired by a high-end dining restaurant.
 - **Design**: Inspired by modern restaurant websites with responsive navigation and interactive sections.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 **Contact Information**:  
