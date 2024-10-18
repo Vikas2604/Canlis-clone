@@ -87,7 +87,7 @@ Contributions are welcome! To contribute:
 ---
 
 **Contact Information**:  
-Call: (206) 283-3313  
-Email: [reservations@canlis.com](mailto:reservations@canlis.com)  
+Call: (206) 283-3323  
+Email: [reservation@canlis.com](mailto:reservation@canlis.com)  
 
 © 1950 - 2024 Canlis
